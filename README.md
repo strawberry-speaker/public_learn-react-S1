@@ -30,4 +30,6 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 ## 環境
-- node.jsのバージョン：20.9.0
+＜バージョン＞
+- node.js:20.9.0
+- vite:10.2.4
